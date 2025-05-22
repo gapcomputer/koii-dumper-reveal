@@ -1,0 +1,10 @@
+[package]
+name = "koii-contract-error-handling"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+thiserror = "1.0"
+
+[dev-dependencies]
+rstest = "0.18.2"
