@@ -1,0 +1,13 @@
+{
+  "name": "koii-token-generation",
+  "version": "1.0.0",
+  "description": "Token generation utility for Koii ecosystem",
+  "main": "src/utils/token-generation.ts",
+  "scripts": {
+    "test": "vitest run",
+    "test:coverage": "vitest run --coverage"
+  },
+  "devDependencies": {
+    "vitest": "latest"
+  }
+}
