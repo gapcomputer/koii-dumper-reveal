@@ -1,0 +1,16 @@
+{
+  "name": "koii-token-minting",
+  "version": "0.1.0",
+  "description": "Token minting mechanism for Koii blockchain",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "vitest": "^0.34.6"
+  }
+}
