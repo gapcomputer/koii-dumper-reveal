@@ -1,0 +1,12 @@
+{
+  "name": "koii-token-minting",
+  "version": "1.0.0",
+  "description": "Token minting mechanism for Koii blockchain",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "latest"
+  }
+}
